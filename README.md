@@ -3,12 +3,12 @@
 ## Выполнил студент группы П25-2.1 Карпухин Дмитрий
 ---
 <picture>
-  <img src="https://github.com/Karpukhin-D/Task-8/blob/main/1.png">
+  <img src="https://github.com/Karpukhin-D/Task-8/blob/main/Рубежный%20контроль/1.png">
 </picture>
 
 
 <picture>
-  <img src="https://github.com/Karpukhin-D/Task-8/blob/main/2.png">
+  <img src="https://github.com/Karpukhin-D/Task-8/blob/main/Рубежный%20контроль/2.png">
 </picture>
 
 ```csharp
